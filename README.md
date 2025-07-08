@@ -2,15 +2,21 @@
 
 ## About me 
  <span style="color: red; font-size: 20px; font-style: italic; font-weight: bold; text-decoration: underline;">
-    выделенный кусок
+    asd
   </span>
+
 ### Languages and Tools
 
-![Postman](https://img.shields.io/badge/Postman-2238ff?style=for-the-badge&logo=postman&logoColor=ff6f22)
-![Postman](https://img.shields.io/badge/Postman-2238ff?style=for-the-badge&logo=postman&logoColor=ff6f22)
+![Postman](https://github.com/Madwicked/Madwicked/blob/main/tools/Postman.png)
+![Github](https://github.com/Madwicked/Madwicked/blob/main/tools/GitHub.png)
+![VSCode](https://github.com/Madwicked/Madwicked/blob/main/tools/VS_Code.jpeg)
+![HTML5](https://github.com/Madwicked/Madwicked/blob/main/tools/HTML5.png)
+![CSS](https://github.com/Madwicked/Madwicked/blob/main/tools/CSS3.png)
+![DevTools](https://github.com/Madwicked/Madwicked/blob/main/tools/Chrome%20DevTools.png)
 
-Contact me
 
-![Postman](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+вњ… How to contact me
 
-![Postman](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+[![Telegram](https://github.com/Madwicked/Madwicked/blob/main/social/Telegram.png)](https://t.me/madwicked)
+
+[![LinkedIn](https://github.com/Madwicked/Madwicked/blob/main/social/LinkedIn.png)](https://www.linkedin.com/in/andrei-khoroshilov/)
