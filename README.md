@@ -7,7 +7,8 @@
 
 ### Languages and Tools
 
-<img src="https://github.com/Madwicked/Madwicked/blob/main/tools/Postman.png" width="180"/>
+<img src="https://github.com/Madwicked/Madwicked/blob/main/tools/Postman.png" width="90"/>
+
 ![Postman](https://github.com/Madwicked/Madwicked/blob/main/tools/Postman.png)
 ![Github](https://github.com/Madwicked/Madwicked/blob/main/tools/GitHub.png)
 ![VSCode](https://github.com/Madwicked/Madwicked/blob/main/tools/VS_Code.jpeg)
