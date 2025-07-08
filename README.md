@@ -1,4 +1,4 @@
-![Header] (https://github.com/Madwicked/Madwicked/blob/main/assets/OIP-2588048416.jpg)
+![Header](https://github.com/Madwicked/Madwicked/blob/main/assets/OIP-2588048416.jpg)
 
 About me
 
