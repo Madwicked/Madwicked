@@ -5,13 +5,13 @@
     asd
   </span>
 
-### Languages and Tools
+## Languages and Tools
 
 <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/Postman.png" width="50"/> <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/GitHub.png" width="50"/> <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/VS_Code.jpeg" width="50"/> <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/HTML5.png" width="50"/> <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/CSS3.png" width="50"/> <img src="https://github.com/Madwicked/Madwicked/blob/main/tools/Chrome%20DevTools.png" width="50"/>
 
 
 
-✅ How to contact me
+## How to contact me
 
 <a href="https://t.me/madwicked" target="_blank">
   <img src="https://github.com/Madwicked/Madwicked/blob/main/social/Telegram.png" width="50"/> 
@@ -20,3 +20,14 @@
 <img src="https://github.com/Madwicked/Madwicked/blob/main/social/LinkedIn.png" width="50"/> 
 </a>
 
+## Courses
+
+Stepik | Author of the course - Artsiom Rusau QA
+Software testing from scratch. Theory + Practice
+July 2025 
+<br><a href="https://drive.google.com/file/d/1Yo2JRkgzgvxDf-N4jtHm_h17CFV63MKx/view?usp=sharing">этом</a>
+
+Sandbox_Web | Intensive "Web Testing Program"
+Author's course by Vadim Ksendzov
+July 2025 
+<br><a href="https://drive.google.com/file/d/1FCG7ZGwjGGRPel3FdSbu26SqYZmaXaqN/view?usp=sharing">этом</a>
