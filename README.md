@@ -18,7 +18,7 @@
 
 <a href="https://t.me/madwicked" target="_blank">
   <img src="https://github.com/Madwicked/Madwicked/blob/main/social/Telegram.png" width="50"/> 
-</a>
+</a> 
 <a href="https://https://www.linkedin.com/in/andrei-khoroshilov/" target="_blank">
 <img src="https://github.com/Madwicked/Madwicked/blob/main/social/LinkedIn.png" width="50"/> 
 </a>
