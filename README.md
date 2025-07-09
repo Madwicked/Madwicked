@@ -4,6 +4,11 @@
  <span style="color: red; font-size: 20px; font-style: italic; font-weight: bold; text-decoration: underline;">
     asd
   </span>
+<ul class="spaced-list"><li>
+    👋Specialize in manual testing of web applications.</li>
+    <li>🛠️Currently, I lead the Sandbox_Web intensive on web testing as part of the commercial practice at Vadim Ksendzov's QA Course.</li>
+    <li>💻Additionally, I am completing a QA internship at ITX, where I perform functional testing of the site capital.com (Prod version)</li>
+   <li> 📄 My resume (PDF) is available here.</li> </ul>
 
 ## Languages and Tools
 
