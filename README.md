@@ -30,9 +30,9 @@
 Stepik | Author of the course - Artsiom Rusau QA
 Software testing from scratch. Theory + Practice
 July 2025 
-<br><a href="https://drive.google.com/file/d/1Yo2JRkgzgvxDf-N4jtHm_h17CFV63MKx/view?usp=sharing">этом</a>
+<br><a href="https://drive.google.com/file/d/1Yo2JRkgzgvxDf-N4jtHm_h17CFV63MKx/view?usp=sharing">certificate</a>
 
 Sandbox_Web | Intensive "Web Testing Program"
 Author's course by Vadim Ksendzov
 July 2025 
-<br><a href="https://drive.google.com/file/d/1FCG7ZGwjGGRPel3FdSbu26SqYZmaXaqN/view?usp=sharing">этом</a>
+<br><a href="https://drive.google.com/file/d/1FCG7ZGwjGGRPel3FdSbu26SqYZmaXaqN/view?usp=sharing">certificate</a>
