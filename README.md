@@ -41,3 +41,5 @@ The materials demonstrate my practical skills in manual testing of web applicati
 ### Checklists
 
 <a href="https://docs.google.com/spreadsheets/d/1VoSK7pjY_Scd1ZNaECRhLjmrDa_WHPROP-jhXByS0yU/edit?usp=sharing">smoke checklist</a> checklist for two sections of the site
+
+### test for phycarm
