@@ -1,11 +1,11 @@
 ![Header](https://github.com/Madwicked/Madwicked/blob/main/assets/QA_blohey.png)
 
 ## About me 
- 
+ Currently involved in ad hoc testing, performing retests, and creating test checklists to ensure software quality.
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
     <li>🛠️Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)</li>
-    <li> 📄 My resume (PDF) is available here.</li> </ul>
+    <li> 📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/1Zt9Mo2VSGXqtxp4uQHxaREBLTbQoPznw/view?usp=drive_link">here</a>.</li> </ul>
 
 ## Languages and Tools
 
