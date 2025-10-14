@@ -4,7 +4,7 @@
  
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
-    <li>🛠️@@@Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)@@@</li>
+    <li>🛠️Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)</li>
     <li> 📄 My resume (PDF) is available here.</li> </ul>
 
 ## Languages and Tools
@@ -40,8 +40,8 @@ September 2025
 
 ## Test Artifacts
 
-<a href="https://docs.google.com/spreadsheets/d/1VoSK7pjY_Scd1ZNaECRhLjmrDa_WHPROP-jhXByS0yU/edit?usp=sharing">smoke checklist</a> checklist for two sections of the site
+<a href="https://docs.google.com/spreadsheets/d/1VoSK7pjY_Scd1ZNaECRhLjmrDa_WHPROP-jhXByS0yU/edit?usp=sharing">smoke checklist</a> for two sections of the site
 
-<a href="https://docs.google.com/spreadsheets/d/1v4fUvc0_g5CerE2cJkVtrs2Pf1yeL6w3t3QllQ5ns18/edit?usp=sharing">test case</a> test case for mobile app
+<a href="https://docs.google.com/spreadsheets/d/1v4fUvc0_g5CerE2cJkVtrs2Pf1yeL6w3t3QllQ5ns18/edit?usp=sharing">test case</a> for mobile app
 
-<a href="https://miro.com/app/board/uXjVJIKuxCU=/?share_link_id=154442004870">mind map</a> mind map for moblie app
+<a href="https://miro.com/app/board/uXjVJIKuxCU=/?share_link_id=154442004870">mind map</a> for moblie app
