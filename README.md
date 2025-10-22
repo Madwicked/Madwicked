@@ -5,7 +5,7 @@
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
     <li>🛠️Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)</li>
-    <li> 📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/1Zt9Mo2VSGXqtxp4uQHxaREBLTbQoPznw/view?usp=drive_link">here</a>.</li> </ul>
+    <li> 📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/1qm-ILTEF8JgqPlUmo8tvHM9SPIvJ33LD/view?usp=drive_link">here</a>.</li> </ul>
 
 ## Languages and Tools
 
@@ -22,8 +22,9 @@
 
 ## Courses
 
-Stepik | Author of the course - Artsiom Rusau QA
+
 Software testing from scratch. Theory + Practice
+Stepik | Author of the course - Artsiom Rusau QA
 July 2025 
 <br><a href="https://drive.google.com/file/d/1Yo2JRkgzgvxDf-N4jtHm_h17CFV63MKx/view?usp=sharing">certificate</a>
 
