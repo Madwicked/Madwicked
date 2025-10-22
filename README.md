@@ -5,7 +5,7 @@
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
     <li>🛠️Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)</li>
-    <li>📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/14-T2yfnHnvMe9KwsjPEOA5CSBfNWxNVg/view?usp=drive_link">here</a>.</li> </ul>
+    <li>📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/14-T2yfnHnvMe9KwsjPEOA5CSBfNWxNVg/view?usp=sharing">here</a>.</li> </ul>
 
 ## Languages and Tools
 
