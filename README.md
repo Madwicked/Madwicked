@@ -4,7 +4,7 @@
  Currently involved in ad hoc testing, performing retests, and creating test checklists to ensure software quality.
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
-    <li>🛠️Currently, I am doing an internship on a commercial project by Vadim Ksendzov. (Prod version)</li>
+    <li>🛠️Currently, I am interning on a commercial project led by Vadim Ksendzov, working as a Team Lead Assistant. (Prod version)</li>
     <li>📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/14-T2yfnHnvMe9KwsjPEOA5CSBfNWxNVg/view?usp=sharing">here</a>.</li> </ul>
 
 ## Languages and Tools
