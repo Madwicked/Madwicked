@@ -5,7 +5,7 @@
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
     <li>🛠️Currently, I am interning on a commercial project <a href="https://www.linkedin.com/company/82631704">ITX</a> led by Vadim Ksendzov, working as a Team Lead Assistant. (Prod version)</li>
-    <li>📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/1iP5r7QuztBMvYLdNhvl--0L8tXIPKeIr/view?usp=drive_link">here</a>.</li> </ul>
+    <li>📄 My resume (PDF) is available <a href="https://drive.google.com/file/d/1oxmDR12mjCw8wQivN3hCPLuV9P7t-6Q5/view?usp=drive_link">here</a>.</li> </ul>
 
 ## Languages and Tools
 
