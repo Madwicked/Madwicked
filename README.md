@@ -1,7 +1,7 @@
 ![Header](https://github.com/Madwicked/Madwicked/blob/main/assets/QA_blohey.png)
 
 ## About me 
- Currently involved in ad hoc testing, performing retests, and creating test checklists to ensure software quality.
+ Currently involved in ad hoc testing, performing retests, and creating test checklists to ensure software quality and developing my skills in QA Automation with Python.
 <ul class="spaced-list"><li>
     👋Specialize in manual testing of web applications.</li>
     <li>🛠️Currently, I am interning on a commercial project <a href="https://www.linkedin.com/company/82631704">ITX</a> led by Vadim Ksendzov, working as a Team Lead Assistant. (Prod version)</li>
